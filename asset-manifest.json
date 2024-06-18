@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mikaiassantos/Meu-Portfolio.git/static/css/main.947de4fb.css",
-    "main.js": "/mikaiassantos/Meu-Portfolio.git/static/js/main.110d6a0f.js",
+    "main.js": "/mikaiassantos/Meu-Portfolio.git/static/js/main.5d0562a5.js",
     "static/js/453.b21437c2.chunk.js": "/mikaiassantos/Meu-Portfolio.git/static/js/453.b21437c2.chunk.js",
     "static/media/color-sharp.png": "/mikaiassantos/Meu-Portfolio.git/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/mikaiassantos/Meu-Portfolio.git/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -32,11 +32,11 @@
     "static/media/arrow2.svg": "/mikaiassantos/Meu-Portfolio.git/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/mikaiassantos/Meu-Portfolio.git/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.947de4fb.css.map": "/mikaiassantos/Meu-Portfolio.git/static/css/main.947de4fb.css.map",
-    "main.110d6a0f.js.map": "/mikaiassantos/Meu-Portfolio.git/static/js/main.110d6a0f.js.map",
+    "main.5d0562a5.js.map": "/mikaiassantos/Meu-Portfolio.git/static/js/main.5d0562a5.js.map",
     "453.b21437c2.chunk.js.map": "/mikaiassantos/Meu-Portfolio.git/static/js/453.b21437c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.947de4fb.css",
-    "static/js/main.110d6a0f.js"
+    "static/js/main.5d0562a5.js"
   ]
 }
