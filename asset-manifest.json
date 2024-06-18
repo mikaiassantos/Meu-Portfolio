@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/mikaiassantos/Meu-Portfolio.git/static/css/main.947de4fb.css",
+    "main.js": "/mikaiassantos/Meu-Portfolio.git/static/js/main.110d6a0f.js",
+    "static/js/453.b21437c2.chunk.js": "/mikaiassantos/Meu-Portfolio.git/static/js/453.b21437c2.chunk.js",
+    "static/media/color-sharp.png": "/mikaiassantos/Meu-Portfolio.git/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/mikaiassantos/Meu-Portfolio.git/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/logo.png": "/mikaiassantos/Meu-Portfolio.git/static/media/logo.1bb20c23d64c529b69f6.png",
+    "static/media/project-img1.png": "/mikaiassantos/Meu-Portfolio.git/static/media/project-img1.b36a6cf3499720d91ac1.png",
+    "static/media/project-img4.png": "/mikaiassantos/Meu-Portfolio.git/static/media/project-img4.cb3b80096f782dc54cd4.png",
+    "static/media/project-img5.png": "/mikaiassantos/Meu-Portfolio.git/static/media/project-img5.2f7e406488feff903c5b.png",
+    "static/media/project-img2.png": "/mikaiassantos/Meu-Portfolio.git/static/media/project-img2.99811985fef94db2d5bb.png",
+    "static/media/banner-bg.png": "/mikaiassantos/Meu-Portfolio.git/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/mikaiassantos/Meu-Portfolio.git/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/project-img3.png": "/mikaiassantos/Meu-Portfolio.git/static/media/project-img3.97ffad5ec8bcdc6f9c7e.png",
+    "static/media/CentraNo2-Bold.ttf": "/mikaiassantos/Meu-Portfolio.git/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/mikaiassantos/Meu-Portfolio.git/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/mikaiassantos/Meu-Portfolio.git/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/mikaiassantos/Meu-Portfolio.git/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/mikaiassantos/Meu-Portfolio.git/static/media/contact-img.aa9cd61ab21cccc53b61fad6ebf07798.svg",
+    "static/media/logo1.png": "/mikaiassantos/Meu-Portfolio.git/static/media/logo1.e031198ed54ca5165be9.png",
+    "static/media/revicons.eot": "/mikaiassantos/Meu-Portfolio.git/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/mikaiassantos/Meu-Portfolio.git/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/mikaiassantos/Meu-Portfolio.git/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/mikaiassantos/Meu-Portfolio.git/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/mikaiassantos/Meu-Portfolio.git/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/mikaiassantos/Meu-Portfolio.git/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/nav-icon3.svg": "/mikaiassantos/Meu-Portfolio.git/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon2.svg": "/mikaiassantos/Meu-Portfolio.git/static/media/nav-icon2.c35763d84d45912bc97b7026fc7ddc5e.svg",
+    "index.html": "/mikaiassantos/Meu-Portfolio.git/index.html",
+    "static/media/nav-icon1.svg": "/mikaiassantos/Meu-Portfolio.git/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/mikaiassantos/Meu-Portfolio.git/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/mikaiassantos/Meu-Portfolio.git/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.947de4fb.css.map": "/mikaiassantos/Meu-Portfolio.git/static/css/main.947de4fb.css.map",
+    "main.110d6a0f.js.map": "/mikaiassantos/Meu-Portfolio.git/static/js/main.110d6a0f.js.map",
+    "453.b21437c2.chunk.js.map": "/mikaiassantos/Meu-Portfolio.git/static/js/453.b21437c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.947de4fb.css",
+    "static/js/main.110d6a0f.js"
+  ]
+}
